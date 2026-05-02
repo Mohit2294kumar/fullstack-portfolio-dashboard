@@ -6,13 +6,12 @@ export default function About() {
       <div className="container">
         <SectionTitle
           kicker="About"
-          title="Built to feel premium, fast, and polished"
-          subtitle="This portfolio is designed as a real MERN project with smooth transitions, responsive layout, dynamic content, and backend support."
+          title="Full Stack Developer & AI Enthusiast"
+          subtitle="I build scalable web applications using the MERN stack and develop intelligent solutions through real-world projects and modern technologies."
         />
         <div className="card" style={{ padding: 24 }}>
           <p>
-            The system includes a hero section, project filters, lazy-loaded pages, admin CRUD, MongoDB data flow,
-            JWT login, and deploy-ready Vercel structure.
+            I am a passionate Full Stack Developer and a fresher, skilled in building modern web applications using the MERN stack. I have worked on several real-world projects, including AI-based applications and dashboards, where I gained hands-on experience in frontend, backend, and API development. I am eager to apply my skills, learn continuously, and contribute to impactful software solutions.
           </p>
         </div>
       </div>
