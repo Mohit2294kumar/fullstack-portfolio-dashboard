@@ -47,8 +47,8 @@ export default function Projects() {
       <div className="container">
         <SectionTitle
           kicker="Projects"
-          title="Selected work"
-          subtitle="Projects are loaded from the backend, searchable, and filterable."
+          title="Projects & Case Studies"
+          subtitle="A showcase of practical applications built using the MERN stack and AI, focused on performance, usability, and real-world impact."
         />
 
         <div className="grid" style={{ gridTemplateColumns: "1.1fr 0.9fr", marginBottom: 18 }}>
