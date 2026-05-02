@@ -1,5 +1,5 @@
 import SectionTitle from "../ui/SectionTitle";
-import { skills } from "../../data/portfolioData";
+import { skills } from "../../data/skillsData";
 
 export default function Skills() {
   return (
@@ -7,8 +7,8 @@ export default function Skills() {
       <div className="container">
         <SectionTitle
           kicker="Skills"
-          title="Stack built for full-stack delivery"
-          subtitle="Frontend, backend, database, authentication, and animation."
+          title="Skills & Technologies"
+          subtitle="A blend of frontend, backend, and development tools that enable me to build complete, scalable web solutions."
         />
 
         <div className="grid skills-grid">

@@ -11,14 +11,3 @@ export const stats = [
   { label: "Full Stack Applications", value: "MERN + APIs" },
   { label: "Real-Time & AI Features", value: "Built" }
 ];
-
-export const skills = [
-  "React",
-  "Node.js",
-  "Express",
-  "MongoDB",
-  "Framer Motion",
-  "REST APIs",
-  "JWT Auth",
-  "Responsive UI"
-];
