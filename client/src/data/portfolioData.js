@@ -2,13 +2,14 @@ export const heroData = {
   name: "Mohit Kumar",
   role: "Full Stack Developer",
   summary:
-    "I build premium, animation-rich portfolio and product experiences with MERN, modern UI systems, and end-to-end deployment."
+    "Full Stack Developer specializing in MERN stack, building scalable web apps with clean UI, efficient backend systems, and real-world problem-solving projects."
 };
 
 export const stats = [
-  { label: "Projects", value: "10+" },
-  { label: "Tech Stack", value: "MERN" },
-  { label: "Focus", value: "UI/UX" }
+  { label: "Production-Level Projects", value: "6+" },
+  { label: "Modern Tech Stack", value: "10+" },
+  { label: "Full Stack Applications", value: "MERN + APIs" },
+  { label: "Real-Time & AI Features", value: "Built" }
 ];
 
 export const skills = [
